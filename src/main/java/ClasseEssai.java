@@ -1,4 +1,9 @@
 public class ClasseEssai {
+   /**
+    * retourne la factorielle d'une valeure
+    * @param pfX valeur a mettre en factorielle
+    * @return entier factorielle de la valeur en pf
+    */
 	public static int factorielle(int pfX) {
 		int r;
 
