@@ -39,7 +39,7 @@
         <version>3.3.2</version>
         <configuration> 
           <source>8</source> 
-          <doclint>none</doclint>
+          <doclint>ClasseEssai</doclint>
         </configuration>
       </plugin>
     </plugins>
